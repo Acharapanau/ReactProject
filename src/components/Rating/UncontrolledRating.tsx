@@ -20,6 +20,7 @@ type StarPropsType = {
     selected: boolean
     value:1 | 2 | 3 | 4 | 5
     setValue: (value:1 | 2 | 3 | 4 | 5) => void
+    setValue: (value:1 | 2 | 3 | 4 | 5) => void
 }
 
 
