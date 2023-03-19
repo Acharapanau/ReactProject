@@ -1,6 +1,6 @@
 import React from "react";
 
-type RatingPropsType = {
+export type RatingPropsType = {
     value: RatingValueType
     onClick: (value: RatingValueType) => void
 }
