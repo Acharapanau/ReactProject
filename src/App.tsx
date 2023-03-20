@@ -5,7 +5,7 @@ import {Rating, RatingValueType} from "./components/Rating/Rating";
 import {OnOff} from "./OnOff/OnOff";
 import {UncontrolledAccordion} from "./components/UncontrolledAccordion/UncontrolledAccordion";
 import {UncontrolledRating} from "./components/UncontrolledRating/UncontrolledRating";
-import {UncontrolledOnOff} from "./OnOff/UncontrolledOnOff";
+import {UncontrolledOnOff} from "./components/UncontrolledOnOff/UncontrolledOnOff";
 
 
 function App() {
